@@ -22,7 +22,7 @@ It is a part of an IoT-based Smart Grain Storage Monitoring and Pest Control sys
 
 ## Screenshots
 ### Circuit Diagram
-![Circuit](circuit.pdf)
+![circuit.pdf](https://github.com/Scoodoobybaba/Grain-storage-monitoring/blob/main/Grain%20storage/circuit.pdf)
 
 ### Simulation Output
 ![Simulation](simulation.jpeg)
