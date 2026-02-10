@@ -27,7 +27,7 @@ designed to reduce post-harvest losses in rural storage facilities.
 - This indicates an alert condition in grain storage
 
 ## Tinkercad Simulation Link
-![tinkercad](https://www.tinkercad.com/things/lutPItxdVKv-grain-survailance/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lW6cYVn3m5bYLlAsPHu98BGlWvBf1XmbHKdhYcuHd3s)
+https://www.tinkercad.com/things/lutPItxdVKv-grain-survailance/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lW6cYVn3m5bYLlAsPHu98BGlWvBf1XmbHKdhYcuHd3s
 
 ## Screenshots
 ### Circuit Diagram
